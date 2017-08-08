@@ -25,7 +25,7 @@ ms.lasthandoff: 07/28/2017
 
 ---
 # <a name="get-started-with-the-net-framework"></a>Introdução ao .NET Framework
-O .NET Framework é um ambiente de execução do tempo de execução que gerencia os aplicativos que têm como alvo o .NET Framework. Ele consiste no Common Language Runtime, que fornece gerenciamento de memória e outros serviços do sistema, além de uma biblioteca de classes extensa, que permite aos programadores aproveitar o código robusto e confiável para todas as áreas principais do desenvolvimento de aplicativos.
+O .NET Framework é um ambiente de execução de runtime que gerencia os aplicativos que têm como alvo o .NET Framework. Ele consiste no Common Language Runtime, que fornece gerenciamento de memória e outros serviços do sistema, além de uma biblioteca de classes extensa, que permite aos programadores aproveitar o código robusto e confiável para todas as áreas principais do desenvolvimento de aplicativos.
 
 <a name="Introducing"></a> 
 ## <a name="what-is-the-net-framework"></a>O que é o .NET Framework?
